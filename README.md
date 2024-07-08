@@ -1,4 +1,4 @@
-# credi-card-fraud-detection-in-R
+# credit-card-fraud-detection-in-R
 
 Credit Card Fraud Detection
 This project aims to detect fraudulent credit card transactions using various machine learning models. The dataset used for this analysis is highly imbalanced, with a majority of transactions being genuine and a small minority being fraudulent. The project involves data loading and preprocessing, exploratory data analysis, data preparation, and building predictive models. The performance of the models is evaluated and compared to determine the most effective model for fraud detection.
